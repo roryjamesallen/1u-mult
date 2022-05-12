@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "1u-mult-panel")(type KiCad)(uri "$(KIPRJMOD)/1u-mult-panel.pretty")(options "")(descr ""))
+)
