@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="3.7039778"
-     inkscape:cx="22.543331"
-     inkscape:cy="57.235764"
+     inkscape:zoom="2.6191078"
+     inkscape:cx="54.78965"
+     inkscape:cy="85.143497"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g10932" />
   <defs
      id="defs2">
     <linearGradient
@@ -69,28 +69,33 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-size:2.86796px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.264583"
-       x="-21.860451"
+       style="font-size:2.86796px;line-height:0.95;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.264583"
+       x="-0.89632463"
        y="3.2134733"
        id="text3903"
        transform="scale(-1,1)"><tspan
          sodipodi:role="line"
          id="tspan3901"
-         style="stroke-width:0.264583"
-         x="-21.860451"
-         y="3.2134733">allen synthesis</tspan></text>
+         style="text-align:end;text-anchor:end;stroke-width:0.264583"
+         x="-0.89632452"
+         y="3.2134733">allen</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:end;text-anchor:end;stroke-width:0.264583"
+         x="-0.89632457"
+         y="5.9380355"
+         id="tspan15648">synthesis</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.86796px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.264583"
-       x="-26.049261"
-       y="38.629093"
+       x="-14.548675"
+       y="38.843391"
        id="text3903-9"
        transform="scale(-1,1)"><tspan
          sodipodi:role="line"
-         id="tspan3901-7"
          style="stroke-width:0.264583"
-         x="-26.049261"
-         y="38.629093">buffered multiple</tspan></text>
+         x="-14.548675"
+         y="38.843391"
+         id="tspan5550">buff mult</tspan></text>
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path11225"
@@ -118,6 +123,27 @@
        sodipodi:arc-type="arc"
        d="m 15.853692,20.703302 a 0.85019249,0.78295052 0 0 1 -0.425097,0.678055 0.85019249,0.78295052 0 0 1 -0.850192,0 0.85019249,0.78295052 0 0 1 -0.425096,-0.678055"
        sodipodi:open="true" />
+    <circle
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="path918"
+       cx="7.5"
+       cy="-13.275"
+       transform="scale(1,-1)"
+       r="5" />
+    <circle
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="path918-6"
+       cx="7.5"
+       cy="-26.375"
+       transform="scale(1,-1)"
+       r="5" />
+    <circle
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="path918-7-4-5"
+       cx="22.5"
+       cy="-26.375"
+       transform="scale(1,-1)"
+       r="5" />
   </g>
   <g
      inkscape:label="B.Cu"
@@ -145,31 +171,45 @@
      id="g10932">
     <circle
        style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="path918"
-       cx="7.5"
-       cy="-13.275"
-       transform="scale(1, -1)"
-       r="2.8675005" />
-    <circle
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="path918-7"
+       id="path918-7-1"
        cx="22.5"
-       cy="-13.275"
-       transform="scale(1, -1)"
-       r="2.8675005" />
-    <circle
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="path918-6"
-       cx="7.5"
-       cy="-26.375"
-       transform="scale(1, -1)"
-       r="2.8675005" />
+       cy="-3"
+       transform="scale(1,-1)"
+       r="1.6" />
     <circle
        style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        id="path918-7-4"
        cx="22.5"
        cy="-26.375"
-       transform="scale(1, -1)"
-       r="2.8675005" />
+       transform="scale(1,-1)"
+       r="3.25" />
+    <circle
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="path918-7-1-8"
+       cx="22.5"
+       cy="-36.799999"
+       transform="scale(1,-1)"
+       r="1.6" />
+    <circle
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="path918-68"
+       cx="7.5"
+       cy="-13.275"
+       transform="scale(1,-1)"
+       r="3.25" />
+    <circle
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="path918-7-5"
+       cx="22.5"
+       cy="-13.275"
+       transform="scale(1,-1)"
+       r="3.25" />
+    <circle
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="path918-6-7"
+       cx="7.5"
+       cy="-26.375"
+       transform="scale(1,-1)"
+       r="3.25" />
   </g>
 </svg>
